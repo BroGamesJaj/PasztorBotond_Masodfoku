@@ -58,7 +58,7 @@
             <!-- Default configuration for running with: mvn clean javafx:run -->
             <id>default-cli</id>
             <configuration>
-              <mainClass>hu.petrik.masodfoku/hu.petrik.masodfoku.HelloApplication</mainClass>
+              <mainClass>hu.petrik.masodfoku/hu.petrik.masodfoku.MasodfokuApplication</mainClass>
               <launcher>app</launcher>
               <jlinkZipName>app</jlinkZipName>
               <jlinkImageName>app</jlinkImageName>
